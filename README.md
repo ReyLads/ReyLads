@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Reydel Ladaga</h1>
-<h3 align="left">Java Spring Boot Developer | AWS DevOps Engineer | Azure Solutions Architect</h3>
+<h3 align="left">Java Spring Boot Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
 <div align="left"> 
   <a href="mailto:reydel.ladaga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -32,7 +32,7 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
     <h2 align="left">💻 Skills 💻</h2>
         <h3>- 📕Technical : Java, Java Spring, Java Spring Boot, AWS, Azure</h3>
         <h3>- 📗Soft Skills :  Project Management, Effective Communication, Problem-Solving, Time Management</h3>
-        <h3>- 📙Additional Tools :  GitHub, Docker, Kubernetes, CI/CD Pipelines, Terraform</h3>
+        <h3>- 📙Additional Tools :  GitHub, Terraform, Docker, Kubernetes, CI/CD Pipelines</h3>
  </div>
 <h2 align="left">📊 Github Stats 📊</h2>
 
