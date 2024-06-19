@@ -2,10 +2,13 @@
 <h3 align="left">Java Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
 <div align="left"> 
   <a href="mailto:reydel.ladaga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://reylads.github.io/markdown-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/reydel-ladaga/badges?sort=-state_updated_at&page=1" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6F61?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </div>
 <br> 
