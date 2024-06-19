@@ -12,7 +12,7 @@
   </a>
 </div>
 <br> 
-Autodidact and self-starter Java Developer with solid knowledge in AWS and Azure. Proven experience in developing robust and scalable cloud-based solutions.
+Autodidact and self-starter Java Developer with solid knowledge in AWS and Azure. Well-versed in developing robust and scalable cloud-based solutions.
 Passionate about leveraging cloud technologies and automation to drive efficiency and innovation in software development.<br>
 <br> 
 <div align="left">
