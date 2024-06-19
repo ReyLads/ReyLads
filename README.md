@@ -19,7 +19,7 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
   
 🔭 I’m currently working on Java Spring Boot & Android App Projects.
 
-🌱 I’m currently learning more about Advanced Cloud DevOps Techniques, Infrastructure as Code, Containerization, and Container Orchestration.
+🌱 I’m currently learning more about Advanced Cloud DevOps Techniques, Infrastructure as Code, Containerization, Microservices, and Container Orchestration.
 
 💬 Ask me about Java Development, AWS, and Azure.
 
