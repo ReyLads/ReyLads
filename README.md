@@ -30,9 +30,9 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
 <br/>
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical : Java, Java Spring, Java Spring Boot, AWS, Azure</h3>
-        <h3>- 📗Soft Skills :  Project Management, Effective Communication, Problem-Solving, Time Management</h3>
-        <h3>- 📙Additional Tools :  GitHub, Terraform, Docker, Kubernetes, CI/CD Pipelines</h3>
+        <h3>- 📕Technical: Java, Java Spring Boot, AWS, Azure</h3>
+        <h3>- 📗Soft Skills:  Project Management, Effective Communication, Problem-Solving, Time Management</h3>
+        <h3>- 📙Additional Tools:  GitHub, Terraform, Docker, Kubernetes, CI/CD Pipelines</h3>
  </div>
 <h2 align="left">📊 Github Stats 📊</h2>
 
