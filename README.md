@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Reydel Ladaga</h1>
-<h3 align="left">Java Spring Boot Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
+<h3 align="left">Java Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
 <div align="left"> 
   <a href="mailto:reydel.ladaga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
