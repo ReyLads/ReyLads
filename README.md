@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hello, I'm Reydel Ladaga</h1>
+<h1 align="left">👋 Hello, I'm Reydel Ladaga | 3x AWS Certified | 3x Microsoft Azure Certified</h1>
 <h3 align="left">Java Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
 <div align="left"> 
   <a href="mailto:reydel.ladaga@gmail.com" target="_blank">
@@ -14,11 +14,11 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
 <br> 
 <div align="left">
   
-🔭 I’m currently working on Java Spring Boot Projects
+🔭 I’m currently working on Java Spring Boot & Android App Projects.
 
-🌱 I’m currently learning more about Advanced Cloud DevOps Techniques
+🌱 I’m currently learning more about Advanced Cloud DevOps Techniques, Infrastructure as Code, Containerization, and Container Orchestration.
 
-💬 Ask me about Java Spring Boot, AWS, Azure
+💬 Ask me about Java Development, AWS, and Azure.
 
 📧 Reach me out: reydel.ladaga@gmail.com
 
