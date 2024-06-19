@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello, I'm Reydel Ladaga | 3x AWS Certified | 3x Microsoft Azure Certified</h1>
-<h3 align="left">Java Android Developer | AWS DevOps Engineer | Site Reliability Engineer</h3>
+<h3 align="left">Java Android Developer | AWS Solutions Architect | Site Reliability Engineer</h3>
 <div align="left"> 
   <a href="mailto:reydel.ladaga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,9 +33,9 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
 <br/>
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical: Java, Java Spring Boot, AWS, Azure</h3>
-        <h3>- 📗Soft Skills:  Project Management, Effective Communication, Problem-Solving, Time Management</h3>
-        <h3>- 📙Additional Tools:  GitHub, Terraform, Docker, Kubernetes, CI/CD Pipelines</h3>
+        <h3>- 📕Technical: Java, Java Spring Boot, AWS, Azure.</h3>
+        <h3>- 📗Soft Skills:  Project Management, Effective Communication, Problem-Solving, Time Management.</h3>
+        <h3>- 📙Additional Tools:  GitHub, Terraform, Docker, Kubernetes.</h3>
  </div>
 <h2 align="left">📊 Github Stats 📊</h2>
 
