@@ -12,16 +12,16 @@
   </a>
 </div>
 <br> 
-Autodidact and self-starter Java Developer with solid knowledge in AWS and Azure. Well-versed in developing robust and scalable cloud-based solutions.
-Passionate about leveraging cloud technologies and automation to drive efficiency and innovation in software development.<br>
+Autodidact and self-starter Python Developer with solid knowledge in AWS and Azure. Well-versed in developing robust and scalable AI cloud-based solutions.
+Passionate about leveraging AI, cloud technologies and automation to drive efficiency and innovation.<br>
 <br> 
 <div align="left">
   
-🔭 I’m currently working on Java Spring Boot & Android App Projects.
+🔭 I’m currently working on Python Projects.
 
-🌱 I’m currently learning more about Advanced Cloud DevOps Techniques, Infrastructure as Code, Containerization, Microservices, and Container Orchestration.
+🌱 I’m currently learning more about AI and Machine Learning Engineering (Hugging Face, NLP, OpenAI API, LangChain, scikit learn, etc.).
 
-💬 Ask me about Java Development, AWS, and Azure.
+💬 Ask me about Python programming, AWS, and Azure.
 
 📧 Reach me out: reydel.ladaga@gmail.com
 
@@ -33,7 +33,7 @@ Passionate about leveraging cloud technologies and automation to drive efficienc
 <br/>
 <div align="left">
     <h2 align="left">💻 Skills 💻</h2>
-        <h3>- 📕Technical: Java, Java Spring Boot, AWS, Azure.</h3>
+        <h3>- 📕Technical: Python, Java, AWS, Azure.</h3>
         <h3>- 📗Soft Skills:  Project Management, Effective Communication, Problem-Solving, Time Management.</h3>
         <h3>- 📙Additional Tools:  GitHub, Terraform, Docker, Kubernetes.</h3>
  </div>
