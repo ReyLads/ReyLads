@@ -28,7 +28,7 @@ Passionate about leveraging AI, cloud technologies and automation to drive effic
  </div>
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=aws,azure,java,spring,androidstudio,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=py,aws,azure,java,spring,androidstudio,github,vscode" /><br>
 </div>
 <br/>
 <div align="left">
